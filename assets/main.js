@@ -39,7 +39,7 @@
             name:'Anh đánh rơi người yêu này',
             singer:'Andiez ft. AMEE',
             path:'./assets/music/Anh đánh rơi người yêu này.mp3',
-            image:'./assets/img/1.png',
+            image:'./assets/img/Loan.jpg',
         },
         {
             name:'Chạy khỏi thế giới này',
