@@ -38,74 +38,74 @@
         {
             name:'Anh đánh rơi người yêu này',
             singer:'Andiez ft. AMEE',
-            path:'../assets/music/Anh đánh rơi người yêu này.mp3',
-            image:'../assets/img/1.png',
+            path:'./assets/music/Anh đánh rơi người yêu này.mp3',
+            image:'./assets/img/1.png',
         },
         {
             name:'Chạy khỏi thế giới này',
             singer:'Da LAB, Phương Ly',
-            path:'../assets/music/Chạy khỏi thế giới này.mp3',
-            image:'../assets/img/2.png'
+            path:'./assets/music/Chạy khỏi thế giới này.mp3',
+            image:'./assets/img/2.png'
         },
         {
             name:'Có đâu ai ngờ',
             singer:'Cầm', 
-            path:'../assets/music/Có đâu ai ngờ.mp3',
-            image:'../assets/img/3.png'
+            path:'./assets/music/Có đâu ai ngờ.mp3',
+            image:'./assets/img/3.png'
         },
         {
             name:'Em là nhất',
             singer:'kis, Hoàng KayLee, YAHY, Cukak',
-            path:'../assets/music/Em là nhất.mp3',
-            image:'../assets/img/4.png'
+            path:'./assets/music/Em là nhất.mp3',
+            image:'./assets/img/4.png'
         },
         {
             name:'Em thích',
             singer:'Sean (Việt Nam), Lửa',
-            path:'../assets/music/Em thích.mp3',
-            image:'../assets/img/5.png'
+            path:'./assets/music/Em thích.mp3',
+            image:'./assets/img/5.png'
         },
         {
             name:'Hình như ta thích nhau',
             singer:'Doãn Hiếu, BMZ',
-            path:'../assets/music/Hình như ta thích nhau.mp3',
-            image:'../assets/img/6.png'
+            path:'./assets/music/Hình như ta thích nhau.mp3',
+            image:'./assets/img/6.png'
         },
         {
             name:'Kìa bóng dáng ai',
             singer:'Pháo, Sterry',
-            path:'../assets/music/Kìa bóng dáng ai.mp3',
-            image:'../assets/img/7.png'
+            path:'./assets/music/Kìa bóng dáng ai.mp3',
+            image:'./assets/img/7.png'
         },
         {
             name:'Mặt mộc',
             singer:'Phạm Nguyên Ngọc, V.Anh, Ân Nhi',
-            path:'../assets/music/Mặt mộc.mp3',
-            image:'../assets/img/8.png'
+            path:'./assets/music/Mặt mộc.mp3',
+            image:'./assets/img/8.png'
         },
         {
             name:'Như anh đã thấy em',
             singer:'PhucXP, Freak D',
-            path:'../assets/music/Như anh đã thấy em.mp3',
-            image:'../assets/img/8.png'
+            path:'./assets/music/Như anh đã thấy em.mp3',
+            image:'./assets/img/8.png'
         },
         {
             name:'Tell Ur Mom',
             singer:'Winno, Heily, Cukak',
-            path:'../assets/music/Tell Ur Mom.mp3',
-            image:'../assets/img/10.png'
+            path:'./assets/music/Tell Ur Mom.mp3',
+            image:'./assets/img/10.png'
         },
         {
             name:'Thích em hơi nhiều',
             singer:'Wren Evans',
-            path:'../assets/music/Thích em hơi nhiều.mp3',
-            image:'../assets/img/11.png'
+            path:'./assets/music/Thích em hơi nhiều.mp3',
+            image:'./assets/img/11.png'
         },
         {
             name:'Tình ca tình ta',
             singer:'kis, Cukak',
-            path:'../assets/music/Tình ca tình ta.mp3',
-            image:'../assets/img/12.png'
+            path:'./assets/music/Tình ca tình ta.mp3',
+            image:'./assets/img/12.png'
         },
      
     ],
